@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<skills>
+		<skill1>Testing Theory</skill1>
+		<skill2>Terminal</skill2>
+		<skill3>Git</skill3>
+                <skill4>Postman</skill4>
+		<skill5>Charles</skill5>
+                <skill6>PostgreSQL</skill6>
+                <skill7>Devtools</skill7>
+                <skill8>Mobile testing</skill8>
+		<skill9>SQL</skill9>
+                <skill10>Jmeter</skill10>
+                <skill11>Python</skill11>
+                <skill8>Bug reports, test cases, check lists</skill8>
+	</skills>
