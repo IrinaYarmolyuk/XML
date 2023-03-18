@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bugreport>
     <id>1</id> 
-    <summary>Company's logo is missing on the mane page</summary>
+    <summary>Company's logo is missing on the main page</summary>
     <step1>navigate to capital.com</step1>
     <step2>look at the header of the main page</step2>
     <expectedResult>Logo are displayed</expectedResult>
